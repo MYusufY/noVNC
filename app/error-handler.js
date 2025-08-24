@@ -52,7 +52,7 @@ function handleError(event, err) {
             .classList.add("noVNC_open");
 
     } catch (exc) {
-        document.write("noVNC encountered an error.");
+        document.write("VNCake VNC (noVNC) encountered an error.");
     }
 
     // Try to disable keyboard interaction, best effort
