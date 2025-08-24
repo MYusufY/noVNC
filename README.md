@@ -1,3 +1,10 @@
+## noVNC fork for VNCake Project
+VNCake is an open-source program, to host your distrubution, or almost any operating system easily.
+
+Imagine [DistroSea](https://distrosea.com/), but open sourced and you can self-host it.
+
+This is just the noVNC part of it with basic GUI changes. Huge thanks to noVNC community!
+
 ## noVNC: HTML VNC client library and application
 
 [![Test Status](https://github.com/novnc/noVNC/workflows/Test/badge.svg)](https://github.com/novnc/noVNC/actions?query=workflow%3ATest)
